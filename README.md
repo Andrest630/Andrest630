@@ -12,3 +12,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Mis estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrest630&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
+
+## Lenguajes que más uso
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrest630&layout=compact&theme=dark)
